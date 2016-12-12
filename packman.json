@@ -1,0 +1,8 @@
+{
+  "name": "KvantWall",
+  "export": "Assets",
+  "dependencies": [
+    "kennelbound-unity/KinoFilters",
+    "kennelbound-unity/KvantReaktion"
+  ]
+}
